@@ -1,0 +1,36 @@
+{
+  "name": "node_google_auth_password_with_express",
+  "version": "1.0.0",
+  "description": "A simple passport-google-oauth20 app with sequalize orm",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "sequelize": "^5.21.8",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Express",
+    "Passport",
+    "Sequalize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manomoic/node_google_auth_password_with_express.git"
+  },
+  "author": "Jack Manamela",
+  "email": "manomoic@gmail.com",
+  "license": "ISC"
+}
