@@ -9,7 +9,7 @@ const GoogleStrategy = require('passport-google-oauth20').Strategy;
 
 const User = require('../models/User');
 
-module.exports = module.exports = (passport) => {
+module.exports = (passport) => {
 
     passport.use(
         new GoogleStrategy({
