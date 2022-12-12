@@ -7,7 +7,7 @@
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
     "ejs": "^3.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql2": "^2.1.0",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
